@@ -24,4 +24,4 @@ Proyecto final para el Módulo 2 del Bootcamp de Data Science. Es una aplicació
 3.  Seguir las instrucciones del menú numérico.
 
 ## 👤 Autor
-Javier - [Tu enlace a LinkedIn o GitHub]
+Javier - [https://www.linkedin.com/in/javierpastensalinas/] [https://github.com/XavierDevx]
